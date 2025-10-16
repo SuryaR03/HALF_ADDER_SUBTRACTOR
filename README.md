@@ -68,7 +68,7 @@ Program to design a half adder and full adder circuit and verify its truth table
    endmodule
 ```
 **RTL Schematic**
-<img width="1920" height="1140" alt="Screenshot 2025-10-03 113633" src="https://github.com/user-attachments/assets/62c10df8-5bf4-4d13-85c2-c305c74c83f9" />
+<img width="1919" height="1027" alt="Screenshot 2025-10-09 142723" src="https://github.com/user-attachments/assets/d2b4f11f-a4bd-4719-ab97-2d9487e60466" />
 
 
 
